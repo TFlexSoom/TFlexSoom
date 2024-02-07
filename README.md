@@ -1,6 +1,8 @@
 ## Tristan Hilbert aka TFlexSoom
+Hello and Welcome to my Github Profile
 
-<p align="center">
+### Some Projects I'm Known For
+<p align="space-between">
     <link rel="stylesheet" href="https://github.com/TFlexSoom/TFlexSoom/blob/master/styles.css">
     <img 
       width="140" height="64" data-main-image="" style="object-fit:contain;opacity:1" 
@@ -18,3 +20,4 @@
       https://enshrouded-tech.com/static/c0aa4eb3f2e4432f0d044161ee003abb/6d683/JnglScreencap.png 350w" alt="Image of the Jngl project!"
     >
 </div>
+

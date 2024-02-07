@@ -1,6 +1,7 @@
 ## Tristan Hilbert aka TFlexSoom
 
 <div id="container">
+    <link rel="stylesheet" href="https://github.com/TFlexSoom/TFlexSoom/blob/master/styles.css">
     <img 
       width="350" height="161" data-main-image="" style="object-fit:contain;opacity:1" 
       sizes="(min-width: 350px) 350px, 100vw" decoding="async" loading="lazy" 

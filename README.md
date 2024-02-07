@@ -20,6 +20,7 @@
 
 
 <!-- Styles -->
+<style>
 #container {
     display: flex;
     flex-direction: row;
@@ -30,3 +31,4 @@
 #container img {
     max-height: 100%;
 }
+</style>

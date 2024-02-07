@@ -1,8 +1,8 @@
 ## Tristan Hilbert aka TFlexSoom
-Hello and Welcome to my Github Profile
+##### Hello and Welcome to my Github Profile
 
-### Some Projects I'm Known For
-<p align="space-between">
+## Some Projects I'm Known For
+<p align="center">
     <link rel="stylesheet" href="https://github.com/TFlexSoom/TFlexSoom/blob/master/styles.css">
     <img 
       width="140" height="64" data-main-image="" style="object-fit:contain;opacity:1" 
@@ -21,3 +21,15 @@ Hello and Welcome to my Github Profile
     >
 </div>
 
+## What I am Currently Working On
+- Code24 : A JIT compiled language written in C/C++ to streamline development
+- Duffle : A Functional Compiled language written in golang to bring backend, frontend, and devops coding together
+- Fuze-Dating : A mobile dating app aimed at single parents
+- Lost and Found : A Third Person Immersive Sim Action Game
+
+
+## A Bit About Me
+I've been coding since I was 11. I really enjoy wide variety of different topics and interests in computer science. I work as a Software Engineer, provoking discussion over broad technical design and finding new ways to code the monotonous. I've orchestrated billed subscriptions, gift-card rewards, experiment roll-out, unit testing, request rate-limiting, and Peer-to-Peer transactions through use of cutting-edge technology. 
+
+## Looking For New Opportunities
+If you are looking for a software engineer whether for a job or as a consultant, then please contact me. Either by email: tflexsoom\[at\]tflexsoom-dev\[dot\]online or at [my website](https://enshrouded-tech.com/contact/)

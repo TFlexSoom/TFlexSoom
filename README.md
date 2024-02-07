@@ -1,6 +1,4 @@
-## Tristan Hilbert aka TFlexSoom
-##### Hello and Welcome to my Github Profile
-
+# TFlexSoom
 ## Some Projects I'm Known For
 <p align="center">
     <link rel="stylesheet" href="https://github.com/TFlexSoom/TFlexSoom/blob/master/styles.css">

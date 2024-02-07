@@ -17,18 +17,3 @@
       https://enshrouded-tech.com/static/c0aa4eb3f2e4432f0d044161ee003abb/6d683/JnglScreencap.png 350w" alt="Image of the Jngl project!"
     >
 </div>
-
-
-<!-- Styles -->
-<style>
-#container {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    justify-items: center;
-}
-
-#container img {
-    max-height: 100%;
-}
-</style>

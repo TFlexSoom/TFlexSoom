@@ -20,7 +20,6 @@
 </div>
 
 ## What I am Currently Working On
-- Code24 : A JIT compiled language written in C/C++ to streamline development
 - Duffle : A Functional Compiled language written in golang to bring backend, frontend, and devops coding together
 - Fuze-Dating : A mobile dating app aimed at single parents
 - Lost and Found : A Third Person Immersive Sim Action Game

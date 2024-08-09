@@ -22,11 +22,11 @@
 ## What I am Currently Working On
 - Duffle : A Functional Compiled language written in golang to bring backend, frontend, and devops coding together
 - Fuze-Dating : A mobile dating app aimed at single parents
-- Lost and Found : A Third Person Immersive Sim Action Game
+- Shrunk and Found : A Third Person Puzzle Adventure Game
 
 
 ## A Bit About Me
 I've been coding since I was 11. I really enjoy wide variety of different topics and interests in computer science. I work as a Software Engineer, provoking discussion over broad technical design and finding new ways to code the monotonous. I've orchestrated billed subscriptions, gift-card rewards, experiment roll-out, unit testing, request rate-limiting, and Peer-to-Peer transactions through use of cutting-edge technology. 
 
 ## Looking For New Opportunities
-If you are looking for a software engineer whether for a job or as a consultant, then please contact me. Either by email: tflexsoom\[at\]tflexsoom-dev\[dot\]online or at [my website](https://enshrouded-tech.com/contact/)
+If you are looking for a software engineer, then please contact me. Either by email: tflexsoom\[at\]tflexsoom-dev\[dot\]online or at [my website](https://enshrouded-tech.com/contact/)
